@@ -1,6 +1,5 @@
-# netflix_data_analysis
 netflix_data_analysis
-# 🎬 Netflix Data Analysis
+# 🎬 Netflix Data Analysis- (SQL, Python, Power BI)
 
 A fresher-level data analytics portfolio project exploring the Netflix titles dataset (8,807 titles, 1925–2021) using **Python (Pandas/Matplotlib/Seaborn)** and **SQL**, presented as an interactive HTML report.
 
